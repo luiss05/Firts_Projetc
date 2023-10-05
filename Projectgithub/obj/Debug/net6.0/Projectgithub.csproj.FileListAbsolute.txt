@@ -1,0 +1,15 @@
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\bin\Debug\net6.0\Projectgithub.exe
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\bin\Debug\net6.0\Projectgithub.deps.json
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\bin\Debug\net6.0\Projectgithub.runtimeconfig.json
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\bin\Debug\net6.0\Projectgithub.dll
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\bin\Debug\net6.0\Projectgithub.pdb
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.csproj.AssemblyReference.cache
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.AssemblyInfoInputs.cache
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.AssemblyInfo.cs
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.csproj.CoreCompileInputs.cache
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.dll
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\refint\Projectgithub.dll
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.pdb
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\Projectgithub.genruntimeconfig.cache
+C:\Users\tec.jipa\source\repos\Projectgithub\Projectgithub\obj\Debug\net6.0\ref\Projectgithub.dll
